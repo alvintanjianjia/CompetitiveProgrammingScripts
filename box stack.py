@@ -6,6 +6,7 @@ from functools import reduce
 References:
 https://mathworld.wolfram.com/PartitionFunctionP.html
 http://mathworld.wolfram.com/PartitionFunctionQ.html
+https://en.wikipedia.org/wiki/Triangular_number
 """
 
 def ncr(n, r):
